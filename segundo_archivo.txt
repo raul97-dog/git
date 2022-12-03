@@ -1,0 +1,1 @@
+“Creo una primera línea en el segundo archivo.”
